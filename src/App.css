@@ -1,38 +1,48 @@
-.App {
-  text-align: center;
+/*
+body {
+	/* padding: 0;
+  margin: auto; 
+	justify-content: center;
+	align-items: center;
+	background-color: azure;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.section-center {
+	background-color: #e5f1fb;
+	height: 200px;
+	width: 500px;
+	margin: 150px auto;
+	border-radius: 3px;
+  padding: 5px 25px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* .grocery-form {
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.grocery-container {
+
+} */
+
+/*
+.section-center .clear-btn {
+	/* justify-content: center; */
+	/* margin: 5px; 
+} 
+
+.clear-btn {
+	font: bolder;
+	cursor: pointer;
+
+} 
+
+.grocery {
+  width: 80%;
+ 
 }
 
-.App-link {
-  color: #61dafb;
+input {
+	background-color: azure;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+*/
